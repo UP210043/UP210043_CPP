@@ -14,7 +14,7 @@ int main()
         if (ed >= 1 && ed <= 30)
         {
             cout << "Primera edad";
-        }
+            }
         else if (ed > 30 && ed <= 60)
         {
             cout << "segunda edad";
@@ -27,8 +27,6 @@ int main()
         {
             cout << "horas extra";
         }
-            
-        
     }
     return 0;
 }
