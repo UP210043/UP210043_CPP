@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
-int main(int argc, char const *argv[])
+
+int main()
 {
-    cout<<"Par o impar" <<"\n";
+    cout<<"Par o Impar" ;
     return 0;
 }

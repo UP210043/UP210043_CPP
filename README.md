@@ -25,10 +25,10 @@ ___
 
 </e1>
 
-![bestia](Personal/bestia.jpg)  
+![bestia](Imagenes/bestia.jpg)  
 
 <div align=center>
-<img alt="Bestiaa" src='Personal/bestia.jpg' width=250 height=350> 
+<img alt="Bestiaa" src='Imagenes/bestia.jpg' width=250 height=350> 
 
 </div align=center> 
 
