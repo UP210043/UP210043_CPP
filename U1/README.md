@@ -12,7 +12,7 @@
 <h2>01_Hola </h2>
 
 ___    
-This code shows the message "Hola mundo cruel" on console.
+This code shows the message "Hola mundo cruel" on console.  
 ![Hola](U1/../Images/01_Hola.jpg)   
 
 <h2>02_ParImpar </h2>
