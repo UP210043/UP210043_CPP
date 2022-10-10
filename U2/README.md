@@ -56,5 +56,5 @@ In this code you can add as many prices of items as you want and the amount of i
 
 ___    
 This code is a converter from binary numbers to decimal numbers.  
-[Binario a decimal code]()  
-![Binario a decimal](U2/../Images/07_BinDec)
+[Binario a decimal code](https://github.com/UP210043/UP210043_CPP/blob/main/U2/07_BinDec.cpp)  
+![Binario a decimal](U2/../Images/07_BInDec.png)
