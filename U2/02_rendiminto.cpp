@@ -1,4 +1,3 @@
-#include <iostream>
 /*En una determinada empresa, sus empleados son evaluados al final de cada año. Los puntos que pueden obtener 
 en la evaluación comienzan en 0.0 y pueden ir aumentando, traduciéndose en mejores beneficios. Los puntos que 
 pueden conseguir los empleados pueden ser 0.0, 0.4, 0.6 o más, pero no valores intermedios entre las cifras 
@@ -9,12 +8,13 @@ Aceptable 0.4
 Meritorio 0.6 o más
 Escribir un programa que lea la puntuación del usuario e indique su nivel de rendimiento, así como la 
 cantidad de dinero que recibirá el usuario.*/
+#include <iostream>
 using namespace std;
 int main(int argc, char const *argv[])
 {
     double punt,din;
-    cout<<"Ingresa tu puntuación";
     string nivel;
+    cout<<"Ingresa tu puntuación";
     cin>>punt;
     if (punt==0||punt==0.4||punt>=0.6)
     {
