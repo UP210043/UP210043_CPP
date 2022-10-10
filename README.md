@@ -1,46 +1,27 @@
 <center>UP210043_CPP </center>
 
+## Universidad Polítecnica de Aguascalientes  
+![UPA](Imagenes/logo_UPA-01.jpg)  
+
 ## Kenya Talí Cornejo Granados
 Up210043   
 ISC03A  
-  **negritas 1**  
-__Texto negritas__  
-*Texto en cursiva*
->Cita de elementos
----  
-___
-***
-
-1. Leer
-2. Escribir
-3. Ejecutar  
----
+ ## U1
 <e1>
-<li>Read</li>
-<li>Write</li> 
-<li>Execute</li>  
-
-
-* 
-
-</e1>
-
-![bestia](Imagenes/bestia.jpg)  
-
-<div align=center>
-<img alt="Bestiaa" src='Imagenes/bestia.jpg' width=250 height=350> 
-
-</div align=center> 
-
-## Tabla  
-
-| Color | Código |  
-| ----- | ------- |  
-| Rojo | #FF0000 |  
-| Azul | #0000FF |  
-
- 
-' https://justinbieber.com '  
-[Justin bieber](https://justinbieber.com)
-
-<a href >
+<li>01_Hola</li>
+<li>02_Par Impar</li> 
+<li>03_Tipos de datos</li>
+<li>04_Ciclos</li>
+<li>05_Edades</li> 
+</e>
+  
+ ## U2  
+<e1>
+<li>01_Rentas</li>
+<li>02_Rendimiento</li> 
+<li>03_SalaJuegos</li>
+<li>04_Pizzería</li>
+<li>05_Temperaturas</li> 
+<li>05_Compras</li> 
+<li>06_BinDec</li> 
+</e>
