@@ -24,4 +24,17 @@ ISC03A
 <li>05_Temperaturas</li> 
 <li>05_Compras</li> 
 <li>06_BinDec</li> 
-</e>
+</e1>   
+  
+
+#  Git Commands  
+Main commands for git;
+<e2>
+<li>git clone</li>
+<li>git add .</li> 
+<li>git status</li>
+<li>git commit -m ""</li>
+<li>git push</li> 
+<li>git pull</li> 
+
+</e2> 
