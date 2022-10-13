@@ -256,7 +256,7 @@ int main(int argc, char const *argv[])
 }
 
 ```
-![Temperaturas](U2/../Images/05_Temperaturas.png)
+![Temperaturas](U2/../Images/05_Temperaturas.png)  
 
 <h2>06_Compras </h2>
 
@@ -289,7 +289,7 @@ int main(int argc, char const *argv[])
 }
 
 ```
-![Compras](U2/../Images/06_compras.png)
+![Compras](U2/../Images/06_compras.png)  
 
 <h2>07_BinDec </h2>
 
@@ -322,4 +322,4 @@ int main(int argc, char const *argv[])
 }
 ```
 
-![Binario a decimal](U2/../Images/07_BInDec.png)
+![Binario a decimal](U2/../Images/07_BInDec.png)  
