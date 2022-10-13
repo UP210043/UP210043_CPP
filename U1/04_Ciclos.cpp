@@ -1,3 +1,4 @@
+/*Objetivo: Determinar si un numero es par o impar y contar la cantidad de cada uno*/
 #include <iostream>
 using namespace std;
 int main(int argc, char const *argv[])

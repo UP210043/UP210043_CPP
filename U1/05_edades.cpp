@@ -1,3 +1,9 @@
+/*Objetivo: Identificar la etapa de la vida en la que se uncuentra una persona
+basada en su edad
+1-30 Primera edad
+31-60 Segunda edad
+61-90 Tercera edad
++90 Horas extra*/
 #include <iostream>
 using namespace std;
 int main()
