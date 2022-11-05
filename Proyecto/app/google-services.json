@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605883561761",
+    "project_id": "agenda-escolar-88916",
+    "storage_bucket": "agenda-escolar-88916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605883561761:android:b07b17ec3eb4a56e057060",
+        "android_client_info": {
+          "package_name": "com.kenyatali.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605883561761-ico0td424839t6se7bc8snffq04nr4gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kenyatali.myapplication",
+            "certificate_hash": "cf9efe6ed33f75308f540958cc862c7bdf565682"
+          }
+        },
+        {
+          "client_id": "605883561761-4jcu9k6lp27esvuolfemanpr31g4bvnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qH6KvLmTms7Ixk2acWabbkn7NrU6w5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605883561761-4jcu9k6lp27esvuolfemanpr31g4bvnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Agenda Escolar</string>
+
+    <!---MainActivity-->
+    <string name="btn_login">Login</string>
+    <string name="btn_registro">Registro</string>
+
+    <!---Registro-->
+    <string name="txt_crearCuenta">Crear una cuenta</string>
+    <string name="et_nombre">Nombres</string>
+    <string name="et_correo">Correo</string>
+    <string name="et_contraseña">Contraseña</string>
+    <string name="et_confirmar">Confirmar Contraseña</string>
+    <string name="regUsuario">Registrar usuario</string>
+    <string name="txt_tengoCuenta">Tengo una cuenta</string>
+
+    <!--Login-->
+    <string name="btn_inicioSesion">Iniciar sesión</string>
+    <string name="txt_noCuenta">No tienes cuenta?</string>
+</resources>
